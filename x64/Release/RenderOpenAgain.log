@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Generating code
+  8 of 882 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    56 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RenderOpenAgain.vcxproj -> E:\Computer Science\Computer Graphics\Render\RenderOpenAgain\x64\Release\RenderOpenAgain.exe

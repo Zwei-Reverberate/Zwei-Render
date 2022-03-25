@@ -1,0 +1,40 @@
+﻿  Light.cpp
+E:\Computer Science\Computer Graphics\Render\RenderOpenAgain\Source\Light.cpp(53,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  Rasterization.cpp
+E:\Computer Science\Computer Graphics\Render\RenderOpenAgain\Source\Rasterization.cpp(66,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Computer Science\Computer Graphics\Render\RenderOpenAgain\Source\Rasterization.cpp(68,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Computer Science\Computer Graphics\Render\RenderOpenAgain\Source\Rasterization.cpp(79,61): warning C4244: 'argument': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Computer Science\Computer Graphics\Render\RenderOpenAgain\Source\Rasterization.cpp(79,46): warning C4244: 'argument': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Computer Science\Computer Graphics\Render\RenderOpenAgain\Source\Rasterization.cpp(87,50): warning C4244: 'argument': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Computer Science\Computer Graphics\Render\RenderOpenAgain\Source\Rasterization.cpp(87,35): warning C4244: 'argument': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Computer Science\Computer Graphics\Render\RenderOpenAgain\Source\Rasterization.cpp(88,50): warning C4244: 'argument': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Computer Science\Computer Graphics\Render\RenderOpenAgain\Source\Rasterization.cpp(88,35): warning C4244: 'argument': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Render.cpp
+  Shader.cpp
+  Generating Code...
+  RenderOpenAgain.vcxproj -> E:\Computer Science\Computer Graphics\Render\RenderOpenAgain\x64\Debug\RenderOpenAgain.exe
